@@ -1,0 +1,93 @@
+{
+  "name": "Yashi Yadav",
+  "professional_title": "AI/ML & Software Developer",
+
+  "summary": "Computer Science Engineering student specializing in AI/ML, passionate about building practical AI-powered applications and software solutions.",
+
+  "education": {
+    "degree": "B.Tech in Computer Science Engineering",
+    "specialization": "Artificial Intelligence and Machine Learning",
+    "college": "Ajay Kumar Garg Engineering College",
+    "graduation_year": 2027,
+    "cgpa": 8.6
+  },
+
+  "career_goals": [
+    "Build practical AI/ML applications",
+    "Grow as a software developer",
+    "Work on real-world technology problems"
+  ],
+
+  "technical_strengths": [
+    "Python",
+    "C++",
+    "Java",
+    "JavaScript",
+    "React",
+    "FastAPI",
+    "Flask",
+    "SQL",
+    "MySQL",
+    "MongoDB",
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+
+  "soft_skills": [
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Creativity",
+    "Continuous Learning"
+  ],
+
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software Development",
+    "Natural Language Processing",
+    "AI-powered applications"
+  ],
+
+  "currently_learning": [
+    "React",
+    "Data Structures and Algorithms",
+    "Machine Learning"
+  ],
+
+  "work_style": "I enjoy learning through hands-on projects, experimenting with new technologies, and turning ideas into practical solutions.",
+
+"experience": [
+  {
+    "title": "UI/UX Intern",
+    "organization": "NoCapCode",
+    "duration": "Feb 2026 - Mar 2026",
+    "description": "Worked on UI/UX design and contributed to creating user-focused digital experiences."
+  }
+],
+
+"activities": [
+  {
+    "name": "Smart India Hackathon",
+    "role": "UI/UX & Frontend Developer",
+    "project": "GeoRural Intelligence",
+    "description": "Worked on UI/UX and frontend development using HTML, CSS, and JavaScript, and contributed to basic backend functionality including login and signup."
+  },
+  {
+    "name": "Taal Dance Society",
+    "role": "Dance Society Member",
+    "highlight": "Performed at IIT Kanpur."
+  }
+],
+
+"achievements": [
+  "2nd Position in Class XII at school"
+]
+,
+  "interests": [
+    "Dancing",
+    "Skating",
+    "Designing"
+  ]
+}

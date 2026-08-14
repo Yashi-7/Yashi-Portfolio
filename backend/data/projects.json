@@ -1,0 +1,120 @@
+{
+  "projects": [
+   {
+  "name": "QueryMind",
+  "short_description": "AI-powered natural language to SQL assistant",
+  "problem": "Users without SQL knowledge may find it difficult to query and understand information stored in databases.",
+  "solution": "QueryMind allows users to ask questions in natural language, converts them into SQL queries, retrieves the relevant database information, and presents the result in an understandable way.",
+  "tech_stack": [
+    "Python",
+    "Groq",
+    "MySQL",
+    "Pydantic",
+    "python-dotenv"
+  ],
+  "features": [
+    "Natural language database querying",
+    "SQL query generation",
+    "Database schema understanding",
+    "Ambiguous query detection",
+    "Clarification questions",
+    "Natural language answers"
+  ],
+  "my_role": "Designed and developed the backend, database schema, LLM integration, query analysis, and ambiguity-handling logic.",
+  "challenges": [
+    "Handling ambiguous natural-language queries without making incorrect assumptions",
+    "Connecting natural-language questions with the database schema",
+    "Ensuring generated answers accurately reflected database results"
+  ],
+  "what_i_learned": "Learned how to integrate LLMs with databases and design systems that ask for clarification instead of making assumptions when user queries are ambiguous.",
+  "github": "",
+  "live_demo": ""
+},
+    {
+  "name": "AI-Based Farmer Query Support System",
+  "short_description": "AI-powered agricultural advisory platform for rural users",
+  "problem": "Farmers may face difficulty accessing agricultural guidance because of language, accessibility, and technology barriers.",
+  "solution": "A responsive AI-powered agricultural advisory platform designed to provide accessible and multilingual support through text, voice, and image-based crop queries.",
+  "tech_stack": [
+    "React",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Figma"
+  ],
+  "features": [
+    "Multilingual query interface",
+    "Text-based crop queries",
+    "Voice-based crop queries",
+    "Image-based crop queries",
+    "Responsive mobile-friendly design",
+    "Accessibility-focused UI"
+  ],
+  "my_role": "Worked as a UI/UX and frontend developer, designing interfaces in Figma and building responsive screens using React, HTML, CSS, and JavaScript. Also contributed to basic login and signup functionality.",
+  "challenges": [
+    "Designing an interface accessible to rural users",
+    "Creating a simple mobile-friendly experience",
+    "Supporting multiple query methods and multilingual interaction"
+  ],
+  "what_i_learned": "Learned how to design technology around accessibility and real-world user needs, particularly for users with different levels of digital familiarity.",
+  "github": "",
+  "live_demo": ""
+},
+    {
+  "name": "Mental Health Score Prediction System",
+  "short_description": "ML-powered mental health score prediction web application",
+  "problem": "Estimating mental health scores from social media usage, lifestyle, and demographic factors.",
+  "solution": "An end-to-end machine learning web application that predicts mental health scores from user-provided information.",
+  "tech_stack": [
+    "Python",
+    "FastAPI",
+    "Scikit-learn",
+    "Pandas",
+    "Pydantic",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Render"
+  ],
+  "features": [
+    "Mental health score prediction",
+    "Real-time predictions",
+    "Pydantic-based input validation",
+    "Responsive web interface"
+  ],
+  "my_role": "Developed the machine learning application end-to-end, including the FastAPI backend, input validation, model integration, frontend, and deployment.",
+  "challenges": [
+    "Integrating the trained machine learning model with a FastAPI backend",
+    "Validating user inputs before generating predictions",
+    "Deploying the complete application"
+  ],
+  "what_i_learned": "Learned how to connect a machine learning model with a web application, build APIs with FastAPI, and deploy an end-to-end ML project.",
+  "github": "",
+  "live_demo": ""
+},
+    {
+  "name": "MoodMate",
+  "short_description": "AI-powered sentiment and emotion analysis application",
+  "problem": "Understanding the emotional tone of user-provided text.",
+  "solution": "An AI-based application that analyzes text and identifies the underlying emotion or sentiment.",
+  "tech_stack": [
+    "Python",
+    "Scikit-learn",
+    "Pandas",
+    "Flask",
+    "React"
+  ],
+  "features": [
+    "Text-based emotion analysis",
+    "Sentiment classification",
+    "Machine learning prediction",
+    "Interactive web interface"
+  ],
+  "my_role": "Developed the machine learning model and contributed to the backend and frontend integration.",
+  "challenges": [],
+  "what_i_learned": "Gained hands-on experience in NLP, text classification, model integration, and connecting machine learning with a web application.",
+  "github": "",
+  "live_demo": ""
+}
+  ]
+}
